@@ -198,6 +198,7 @@ public class Sgpa {
         float result = (float)(mark)/tCredit;
         System.out.println("Your sgpa =>"+ result);
 
+        
     }
 
 }
